@@ -1,0 +1,24 @@
+body{
+    background-image: url("lib.jpg"); 
+    background-repeat: no-repeat;
+    background-size:150% ;
+    font-family: cursive;
+    color: aliceblue;
+}
+.fhead{
+    color: rgb(47, 219, 196);
+}
+.col-sm-2 {
+    color: rgb(220, 221, 213);
+  font-weight: bolder;
+}
+.table{
+    color: rgb(13, 121, 115);
+}
+.dhead{
+   color:rgb(47, 219, 196) ;
+}
+#alg{
+    color: black;
+    background-color: rgb(37, 233, 240);
+}
